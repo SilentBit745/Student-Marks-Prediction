@@ -1,0 +1,3 @@
+Model,MAE,R2 Score
+Linear Regression,1.56,1.0
+Decision Tree,4.75,0.95
