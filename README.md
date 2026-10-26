@@ -1,6 +1,20 @@
-# 📊 ML Prediction Project
 
-A simple machine learning project to predict student marks.
+# 🎓 Student Marks Prediction
+
+> A simple machine learning project to predict student marks.
+
+---
+
+## 📌 About The Project
+
+This project predicts student marks using study hours, attendance, and previous marks.
+
+## ⚙️ How It Works
+
+1. Create a student dataset.
+2. Split the data into training and testing sets.
+3. Train two machine learning models.
+4. Compare their results.
 
 ---
 
@@ -12,28 +26,43 @@ A simple machine learning project to predict student marks.
 
 ---
 
+## 🤖 Models Used
+
+### 1. Linear Regression
+Predicts marks using patterns in the data.
+
+### 2. Decision Tree
+Predicts marks using decision rules.
+
+---
+
 ## 📂 Project Files
 
-- `main.py` — Python code
-- `student_data.csv` — Student data
-- `model_results.csv` — Model results
+| File | Description |
+|---|---|
+| `main.py` | Main Python code |
+| `student_data.csv` | Student dataset |
+| `model_results.csv` | Model results |
 
 ---
 
-## 🤖 ML Models
-
-- Linear Regression
-- Decision Tree
-
----
-
-## 📈 Results
+## 📊 Results
 
 | Model | MAE | R² Score |
 |---|---:|---:|
 | Linear Regression | 1.56 | 1.00 |
 | Decision Tree | 4.75 | 0.95 |
 
-**Best Model:** Linear Regression 🏆
+### 🏆 Best Model
+
+**Linear Regression** performed better on this test dataset.
+
+---
+
+## 🎯 What I Learned
+
+- Training machine learning models
+- Making predictions
+- Comparing model results
 
 ---
