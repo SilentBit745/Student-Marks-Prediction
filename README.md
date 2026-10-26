@@ -1,7 +1,7 @@
 
 # 🎓 Student Marks Prediction
 
-> A simple machine learning project to predict student marks.
+> A machine learning project to predict student marks.
 
 ---
 
